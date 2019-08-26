@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "frontend": "git@github.com:polyhome/frontend",
+    "backend": "git@github.com:polyhome/backend",
+    "mock-http": "git@github.com:polyhome/mock-http"
+  }
+}
