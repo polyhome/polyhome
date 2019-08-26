@@ -1,6 +1,7 @@
 {
 	"scripts": {
-		"meta": "meta"
+		"meta": "meta",
+		"setup": "yarn install && meta git update"
 	},
 	"dependencies": {
 		"meta": "^2.2.6"
