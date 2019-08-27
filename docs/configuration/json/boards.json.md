@@ -2,7 +2,7 @@
 
 ## Example file
 
-```
+```json
 [
   {
     "_id": "living-room",
