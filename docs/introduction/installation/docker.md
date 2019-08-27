@@ -14,4 +14,4 @@ You will be asked a few questions, like where you want to save the configuration
 
 ## Install manually
 
-Copy the docker-compose file [located here](https://github.com/polyhome/polyhome/blob/master/docker-compose.prod.yaml). 
+Setting up PolyHome works like any other Dockerized application. You can find a docker-compose.yaml example [here](https://hub.docker/r/polyhome/polyhome)
