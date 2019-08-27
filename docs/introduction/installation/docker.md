@@ -1,3 +1,5 @@
+# Docker
+
 The recommended way of getting PolyHome up and running, is by using Docker along with Docker-Compose.
 
 ## Install using script
@@ -11,3 +13,5 @@ You will be asked a few questions, like where you want to save the configuration
 `curl -fsSL https://get.polyhome.io | sh`
 
 ## Install manually
+
+Copy the docker-compose file [located here](https://github.com/polyhome/polyhome/blob/master/docker-compose.prod.yaml). 

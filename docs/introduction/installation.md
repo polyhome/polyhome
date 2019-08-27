@@ -1,1 +1,0 @@
-There are multiple ways to install PolyHome. Below you will descriptions on each method. Choose the one that fits your use-case.

@@ -2,5 +2,7 @@
 
 * Getting Started
     * [Why](introduction/why.md)
-    * [Installation](introduction/installation.md)
-        * [Docker](introduction/installation/docker.md)
+    * Installation
+        * [Install with Docker](introduction/installation/docker.md)
+* Configuration
+    * [Configure via JSON Files](configuration/json/index.md)
