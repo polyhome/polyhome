@@ -1,29 +1,5 @@
 # Configuration
 
-## What does the configuration consist of?
-
-The configuration consists of 5 components:
-
-- Boards
-- Groups
-- Cards
-- Elements
-- Commands
-
-These components each relate to another in a chain, which then forms the entire application.
-
-## Boards
-
-Boards are the main component, and an example of a Board can be `Living Room`. Boards don't necassarily have to be rooms, they can be whatever fits your need. Maybe it makes sense for you to have a Board, where you can control all of the lights in the house; that freedom lies in your hands.
-
-Boards consists of Groups.
-
-## Groups
-
-Groups are what you will find inside of a Board. As the name suggests, this is a component where you're grouped things together. This might mean that you have a group consisting of all the lights in your house. Again, the freedom lies in your hands.
-
-Groups consists of Cards
-
 ## Cards
 
 To continue the previous example of grouping lights together, you would use a Card for every light. A Card is what defines a device. Firstly it is what decides what should show up in the UI, secondly it also contains everything related to a device, like what state and commands it has.
