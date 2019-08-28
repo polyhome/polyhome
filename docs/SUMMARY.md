@@ -4,7 +4,7 @@
   - [Why](introduction/why.md)
   - Installation
     - [Install with Docker](introduction/installation/docker.md)
-- [Configuration](configuration/configuration.md)
+- Configuration
   - [Boards](configuration/Boards.md)
   - [Groups](configuration/Groups.md)
     - [Classes](configuration/groups/classes.md)
@@ -14,6 +14,7 @@
     - [How Elements are used](configuration/elements/how-to-use.md)
     - [How to make a custom Element](configuration/elements/how-to-make.md)
   - [Commands](configuration/Commands.md)
+    - [HTTP Command](configuration/commands/http.md)
   - [Configuration via JSON Files](configuration/json/json.md)
     - [boards.json](configuration/json/boards.json.md)
     - [groups.json](configuration/json/groups.json.md)
