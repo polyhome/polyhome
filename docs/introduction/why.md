@@ -4,7 +4,7 @@ With well-established systems like Home Assistant or OpenHAB, you may be wonderi
 
 ## The good
 
-This project is being built with the mindset of doing it right the first time. As far as possible, no feature should be half-done once it is published, or have any known drawbacks that are within the realm of possibility to fix. In theory, this should lead to a product that *just works<sup>tm</sup>*
+This project is being built with the mindset of doing it right the first time. As far as possible, no feature should be half-done once it is published, or have any known drawbacks that are within the realm of possibility to fix. In theory, this should lead to a product that _just works(tm)_
 
 ## The bad
 
