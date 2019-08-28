@@ -10,4 +10,4 @@ Cards consists of Elements
 
 A Card is what you use inside Groups. Here we move a bit away from the visual, and into the logical. Regarding the visual, the Card contains the tag of the Element, that you want to be shown.
 
-> See [Elements](configuration/Elements.md) for more on Elements.
+> See [Elements](Elements.md) for more on Elements.
