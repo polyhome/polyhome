@@ -8,6 +8,7 @@
   - [Boards](configuration/Boards.md)
   - [Groups](configuration/Groups.md)
   - [Cards](configuration/Cards.md)
+    - [Triggers](configuration/cards/triggers.md)
   - [Elements](configuration/Elements.md)
   - [Commands](configuration/Commands.md)
   - [Configuration via JSON Files](configuration/json/json.md)

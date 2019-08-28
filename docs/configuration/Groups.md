@@ -10,6 +10,6 @@ A Group is what you put inside of a Board. While a Board is what you would use t
 
 ## Examples
 
-## TV in living room
+### TV in living room
 
 If you have a TV in your living room, you would most likely make a Group for that TV. It could contain buttons like power, volume, up, down etc. You would then use this Group inside of your Living Room Board.
