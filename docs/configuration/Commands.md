@@ -1,5 +1,7 @@
 # Commands
 
+## What is a Command?
+
 As mentioned Cards need a Command in order to do anything, other than just be shown. This is where a Command comes into play. A Command contains the low-level specific information about how an action should be executed, meaning this is also where it gets more technical.
 
 Continuing the light analogy; let's say you turn your light on by sending an HTTP request to it. A Command is where you'd define the address the HTTP request needs to be sent, what params it might giving, headers, body etc.
