@@ -2,7 +2,7 @@
 
 ## What is a Group?
 
-A Group is what you put inside of a Board. While a Board is what you would use to make big groups like a living room, or all your lights, a Group is what you would use to make a smaller grouping.
+A Group is what you put inside of a Board. While a Board is what you would use to make big groups like a living room, or all your lights, a Group is what you would use to make a smaller groupings.
 
 ## Examples
 
