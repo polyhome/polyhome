@@ -34,3 +34,9 @@ Just to hammer the point home. Say you have an element with the following classe
 - Between `1200 px` and `992 px`, the element will fill 6 columns.
 - Between `992 px` and `768 px`, the element will fill 8 columns.
 - When under `768 px`, the element will fill 12 columns.
+
+## area-\*-\*-\*-\*
+
+Sometimes you don't want your elements to fill in from the left. Maybe you want complete control. This is what the class explained in this section will give you. From a base view it's very much like anything else already covered. The syntax is as follows `area-rowstart-columnstart-rowend-columnend`. Below is an example
+
+Say you have an element with the class `area-0-1-2-3`. This would mean that the element starts at row position 0, which essentially means all the way at the top. Next is the `1`, which means it start at column position 1, meaning there will be one area of whitespace, between the left of the screen and the start of your element. The number `2` defines where your element should end on the X-axis. In this case it's ending at the `2` position, making it fill two spaces. The `3` defines where the element should end on the Y-axis. In this case it would stop at the 3 position, making it fill three spaces.
