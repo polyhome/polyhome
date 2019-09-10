@@ -35,3 +35,5 @@ This is where you define what state the Card should have, the first time it's im
 ## commands
 
 This is where the magic of the Card happens. Every Element has a defined set of triggers it can use. The `ph-toggle-btn` only has a single one; toggle. Given the above example, you are telling the Element that for the `toggle` trigger, it should fire the `living-room_light_toggle` command.
+
+For more on toggles, read the dedicated section [here](../cards/triggers.md)
