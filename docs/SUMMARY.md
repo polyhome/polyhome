@@ -11,8 +11,6 @@
   - [Cards](configuration/Cards.md)
     - [Triggers](configuration/cards/triggers.md)
   - [Elements](configuration/Elements.md)
-    - [How Elements are used](configuration/elements/how-to-use.md)
-    - [How to make a custom Element](configuration/elements/how-to-make.md)
   - [Commands](configuration/Commands.md)
     - [HTTP Command](configuration/commands/http.md)
   - [Configuration via JSON Files](configuration/json/json.md)
