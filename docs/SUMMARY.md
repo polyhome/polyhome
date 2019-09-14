@@ -12,7 +12,6 @@
     - [Triggers](configuration/cards/triggers.md)
   - [Elements](configuration/Elements.md)
   - [Commands](configuration/Commands.md)
-    - [HTTP Command](configuration/commands/http.md)
   - [Configuration via JSON Files](configuration/json/json.md)
     - [boards.json](configuration/json/boards.json.md)
     - [groups.json](configuration/json/groups.json.md)
